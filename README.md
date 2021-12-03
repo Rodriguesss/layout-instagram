@@ -6,3 +6,8 @@ Link do projeto (code sandbox): https://dgc2c.csb.app/
 
 <img src="img/print1-site.png" />
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 2e966fe2c6ca512dc2f38ccf7b122108f6e6c558
