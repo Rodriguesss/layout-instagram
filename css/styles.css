@@ -9,7 +9,7 @@ body {
   left: 0;
   width: 100%;
   height: 54px;
-  border: 1px solid #DBDBDB;
+  border-bottom: 1px solid #DBDBDB;
   background-color: #fff;
   display: flex;
   justify-content: center;
